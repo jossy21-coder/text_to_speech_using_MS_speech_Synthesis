@@ -26,7 +26,8 @@ The **Text-to-Speech Converter** is a lightweight and user-friendly web applicat
 3. Type text into the textarea, select a voice from the dropdown, and click the "Listen" button to hear the text.
 
 ### Screenshots:
-_Add relevant screenshots of the app here._
+#### Interface Form
+<img src="1.jpg" alt="Interface Form Preview" width="600"/>
 
 ### Contribution:
 Feel free to fork the repository and submit pull requests to enhance functionality, improve UI/UX, or fix bugs. Feedback is always welcome!
