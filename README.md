@@ -30,7 +30,7 @@ The **Text-to-Speech Converter** is a lightweight and user-friendly web applicat
 <img src="1.jpg" alt="Interface Form Preview-one" width="500"/>
 
 #### Interface Form
-<img src="2.jpg" alt="Interface Form Preview-two" width="500"/>
+<img src="2.JPG" alt="Interface Form Preview-two" width="500"/>
 
 ### Contribution:
 Feel free to fork the repository and submit pull requests to enhance functionality, improve UI/UX, or fix bugs. Feedback is always welcome!
